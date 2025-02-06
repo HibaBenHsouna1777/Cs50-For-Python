@@ -8,14 +8,12 @@ def get_int():
     while True :
         try :
     
-            x= int(input( " what's x ?"))
+            return int(input( " what's x ?"))
        
         except ValueError :
             print ( " bro x is an integer ")
     
-        else :
-        #return is way stornger than break 
-            return x
+        
 
-
+main()
     
