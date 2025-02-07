@@ -1,0 +1,10 @@
+Hello everyone! 👋
+
+I'm excited to share these folders, dedicated to CS50's Introduction to Python. 🐍✨
+
+📂 Inside, you'll find:
+✅ Course materials, neatly divided into sections 📖
+✅ Code files with detailed comments explaining each concept 💡
+✅ Quizzes and tests from the course to help reinforce learning ✅
+
+As I'm new to this, I hope you find it helpful, and I’d love to hear your feedback! 🚀
